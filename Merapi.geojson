@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Merapi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0 }, "geometry": { "type": "Point", "coordinates": [ 110.44601976324806, -7.540858860432303 ] } }
+]
+}
